@@ -28,3 +28,16 @@ Furhat gives clues; students guess the civilization.
 
 - Correct: “Nice deduction! What clue helped you most?”
 - Incorrect: “Good guess. Want a hint about their writing system?”
+
+
+### Correct Civilization Identifications
+	•	River that floods every year → Ancient Egypt
+	•	Major river → The Nile River
+	•	Large stone monuments aligned with the sun → Pyramids
+	•	Writing system using pictures → Hieroglyphics
+	•	Strong centralized ruler → Pharaoh
+	•	Advances in math and engineering → Ancient Egypt
+
+### Expected Student Explanation
+
+“Ancient Egypt developed along the Nile River, which flooded regularly and allowed farming. They built pyramids and used hieroglyphics for writing.”
