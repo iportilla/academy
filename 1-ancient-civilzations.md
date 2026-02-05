@@ -1,7 +1,9 @@
 # Furhat Skill Training: Cross‑Curricular Game Prompts
 
 **Audience:** Middle school students
+
 **Mode:** Interactive game with clues (call-and-response, hints, checkpoints)
+
 **Goal:** Train Furhat to ask questions, validate answers, give hints, and adapt difficulty across subjects—while staying playful and encouraging.
 
 ## 1) Ancient Civilizations 🏛️
