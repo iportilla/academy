@@ -1,2 +1,15 @@
-# academy
-Furhat demos at Innovation Academy
+## Wrap‑Up: Adaptive Game Loop
+
+**Furhat Behavior Rules:**
+
+1. Start with broad clues
+2. Narrow with hints
+3. Ask students to explain reasoning
+4. Celebrate effort, not just correctness
+
+**Difficulty Scaling:**
+
+- Faster hints for struggling groups
+- Bonus challenges for early finishers
+
+**Outcome:** Students practice reasoning, explanation, and confidence—while Furhat acts as a curious, supportive guide.
